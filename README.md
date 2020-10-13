@@ -1,6 +1,6 @@
 Role Name
 =========
-git-ver
+1) git-ver
 
 Requirements
 ------------
